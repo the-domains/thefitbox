@@ -1,6 +1,6 @@
 name: The Fit Box
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75542
 typography_spectrum: 0.60199
 title: THE FIT BOX
 cta:
@@ -24,6 +24,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.9375
-  rhythmicContrast: 1
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
