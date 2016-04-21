@@ -4,8 +4,15 @@
         <description><![CDATA[THE FIT BOX]]></description>
         <link>https://thegrid.ai/thefitbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 21:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:18:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefitbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barras]]></title>
+            <description><![CDATA[<h1>Barras</h1>]]></description>
+            <link>https://thegrid.ai/thefitbox/barras/index.html</link>
+            <guid isPermaLink="false">b7cbf0b1-1d79-4bc3-ad11-fb60723cb358</guid>
+            <pubDate>Thu, 21 Apr 2016 21:18:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CONCEPTO]]></title>
             <description><![CDATA[<p>THE FIT BOX nace para ofrecer una extensa variedad de productos saludables y dietéticos a las personas que siguen o desean tener un estilo de vida con un perfil más saludable. Disponible 24/7, nuestras máquinas expendedoras posibilitan la adquisición de productos hasta hoy “especializados” para un consumo básico, al alcance de todos. Gracias a este sistema es finalmente posible seguir una dieta balanceada en lugares en los que no sería posible con los perfiles y sistemas tradicionales de venta automatizada. </p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/thefitbox/marcas/index.html</link>
             <guid isPermaLink="false">416f9556-e2ab-42af-9282-c4bd462c3c52</guid>
             <pubDate>Thu, 21 Apr 2016 21:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PRODUCTOS]]></title>
-            <description><![CDATA[<p>Barras</p>]]></description>
-            <link>https://thegrid.ai/thefitbox/barras/index.html</link>
-            <guid isPermaLink="false">b7cbf0b1-1d79-4bc3-ad11-fb60723cb358</guid>
-            <pubDate>Thu, 21 Apr 2016 21:09:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MARCAS]]></title>
