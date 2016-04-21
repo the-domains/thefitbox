@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T23:33:53.276Z'
-dateModified: '2016-04-21T23:33:51.786Z'
+datePublished: '2016-04-21T23:36:16.900Z'
+dateModified: '2016-04-21T23:36:16.220Z'
 title: ' Suplementos '
 author: []
+sourcePath: _posts/2016-04-21-suplementos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-suplementos.md
-published: true
 url: suplementos/index.html
-_type: Article
+_type: WebPage
 
 ---
 > Snacks
