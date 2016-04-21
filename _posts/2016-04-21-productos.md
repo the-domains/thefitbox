@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T20:22:58.983Z'
-dateModified: '2016-04-21T20:22:58.488Z'
+datePublished: '2016-04-21T20:34:32.256Z'
+dateModified: '2016-04-21T20:34:31.708Z'
 title: ' Barras'
 author: []
 sourcePath: _posts/2016-04-21-productos.md
