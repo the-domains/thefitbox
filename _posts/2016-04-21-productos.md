@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-21T21:53:25.531Z'
-dateModified: '2016-04-21T21:52:21.811Z'
+datePublished: '2016-04-21T21:59:03.847Z'
+dateModified: '2016-04-21T21:53:32.403Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-productos.md
