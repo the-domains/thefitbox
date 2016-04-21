@@ -4,13 +4,20 @@
         <description><![CDATA[THE FIT BOX]]></description>
         <link>https://thegrid.ai/thefitbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 21:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:57:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefitbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PRODUCTOS]]></title>
             <link>https://thegrid.ai/thefitbox/productos/index.html</link>
             <guid isPermaLink="false">78349f40-0c8a-4ba6-ab85-e63c121fc1e0</guid>
             <pubDate>Thu, 21 Apr 2016 21:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MARCAS]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67f0d906-7de1-44e3-a567-03c53085f3dd.jpg">]]></description>
+            <link>https://thegrid.ai/thefitbox/marcas/index.html</link>
+            <guid isPermaLink="false">184ea506-e39c-4e80-87f0-808179b5f6d7</guid>
+            <pubDate>Thu, 21 Apr 2016 21:57:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MARCAS]]></title>
@@ -25,13 +32,6 @@
             <link>https://thegrid.ai/thefitbox/contacto/index.html</link>
             <guid isPermaLink="false">451e7d6f-a030-48f8-a17a-975f59675a28</guid>
             <pubDate>Thu, 21 Apr 2016 21:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARCAS]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4fb968a-8e02-4f8b-b323-409350354eb0.png">]]></description>
-            <link>https://thegrid.ai/thefitbox/marcas/index.html</link>
-            <guid isPermaLink="false">184ea506-e39c-4e80-87f0-808179b5f6d7</guid>
-            <pubDate>Thu, 21 Apr 2016 20:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
