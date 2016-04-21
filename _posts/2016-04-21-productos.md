@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T19:57:27.392Z'
-dateModified: '2016-04-21T19:57:26.849Z'
-title: ''
+datePublished: '2016-04-21T20:22:58.983Z'
+dateModified: '2016-04-21T20:22:58.488Z'
+title: ' Barras'
 author: []
 sourcePath: _posts/2016-04-21-productos.md
 published: true
@@ -19,13 +19,15 @@ publisher:
   url: null
   favicon: null
 url: productos/index.html
-_type: WebPage
+_type: Article
 
 ---
-> PRODUCTOS
+> ## Snacks
 
-* Snacks
-* Barras
-* Bebidas
-* Suplementos
-* Cosméticos
+## Barras
+
+## Bebidas
+
+## Suplementos
+
+## Cosméticos
