@@ -4,13 +4,20 @@
         <description><![CDATA[THE FIT BOX]]></description>
         <link>https://thegrid.ai/thefitbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 21:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:01:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefitbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PRODUCTOS]]></title>
             <link>https://thegrid.ai/thefitbox/productos/index.html</link>
             <guid isPermaLink="false">78349f40-0c8a-4ba6-ab85-e63c121fc1e0</guid>
             <pubDate>Thu, 21 Apr 2016 21:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@thefitboxmid]]></title>
+            <description><![CDATA[<article><h1>@thefitboxmid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcce592d6b3bda3630bc9f6782e0f5f777228988.png"></article>]]></description>
+            <link>https://thegrid.ai/thefitbox/contacto/index.html</link>
+            <guid isPermaLink="false">451e7d6f-a030-48f8-a17a-975f59675a28</guid>
+            <pubDate>Thu, 21 Apr 2016 22:01:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MARCAS]]></title>
@@ -25,13 +32,6 @@
             <link>https://thegrid.ai/thefitbox/marcas/index.html</link>
             <guid isPermaLink="false">416f9556-e2ab-42af-9282-c4bd462c3c52</guid>
             <pubDate>Thu, 21 Apr 2016 21:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@thefitboxmid]]></title>
-            <description><![CDATA[<article><h1>@thefitboxmid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcce592d6b3bda3630bc9f6782e0f5f777228988.png"></article>]]></description>
-            <link>https://thegrid.ai/thefitbox/contacto/index.html</link>
-            <guid isPermaLink="false">451e7d6f-a030-48f8-a17a-975f59675a28</guid>
-            <pubDate>Thu, 21 Apr 2016 21:47:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
