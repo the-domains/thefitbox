@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T21:02:32.150Z'
-dateModified: '2016-04-25T21:02:31.624Z'
-title: ' Suplementos'
+datePublished: '2016-04-25T22:02:55.391Z'
+dateModified: '2016-04-25T21:43:33.031Z'
+title: ' PRODUCTOS '
+author: []
+sourcePath: _posts/2016-04-25-suplementos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
-sourcePath: _posts/2016-04-25-suplementos.md
-published: true
 url: suplementos/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 # PRODUCTOS 
