@@ -4,13 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-26T06:58:59.463Z'
-dateModified: '2016-04-26T06:58:50.017Z'
+description: 'Snacks  Barras '
+datePublished: '2016-05-06T23:54:02.861Z'
+dateModified: '2016-05-06T23:45:15.378Z'
 title: ' PRODUCTOS '
 author: []
 sourcePath: _posts/2016-04-25-suplementos.md
-published: true
 authors: []
 publisher:
   name: null
