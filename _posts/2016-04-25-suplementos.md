@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Snacks  Barras '
-datePublished: '2016-05-30T10:22:34.776Z'
-dateModified: '2016-05-30T10:22:34.110Z'
+datePublished: '2016-05-30T10:25:31.291Z'
+dateModified: '2016-05-30T10:25:31.249Z'
 title: ' PRODUCTOS '
 author: []
 sourcePath: _posts/2016-04-25-suplementos.md
