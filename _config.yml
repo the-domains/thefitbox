@@ -1,33 +1,33 @@
-typography_spectrum: 0.60199
+layout_spectrum: 0.7425224839244038
+typography_spectrum: 0.4289612944703549
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.60614
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.26433565956540406
+  lightness: 0.9519154322333634
+  saturation: 0.9071812983602285
+  rhythmicContrast: 0.7314519721549004
 name: The Fit Box
+favicon: null
+title: THE FIT BOX
 cta:
   domain: null
   bucket: null
   version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+purpose: []
 navigation:
   - name: CONTACTO
     id: a13e8487-bc73-483f-9d85-b07bb50edf35
     type: content
-favicon: null
-title: THE FIT BOX
-purpose: []
