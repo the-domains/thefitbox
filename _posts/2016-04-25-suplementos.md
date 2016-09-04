@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T21:04:05.447Z'
+datePublished: '2016-09-01T21:05:17.303Z'
 sourcePath: _posts/2016-04-25-suplementos.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T21:04:05.114Z'
+dateModified: '2016-09-01T21:05:17.120Z'
 title: ' PRODUCTOS'
 publisher: {}
-description: SnacksBarras Bebidas deportivas ProteinasSuplementos Cosméticos    ...y más!!
+description: SnacksBarrasBebidas deportivas ProteinasSuplementos Cosméticos    ...y más!!
 inLanguage: null
 inNav: true
 starred: false
