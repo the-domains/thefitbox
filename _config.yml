@@ -1,4 +1,3 @@
-layout_spectrum: 0.24895517132245004
 typography_spectrum: 0.6180235692299902
 color:
   brandColors:
@@ -11,23 +10,20 @@ color:
   lightness: 0.9519154322333634
   saturation: 0.9071812983602285
   rhythmicContrast: 0.7314519721549004
-name: The Fit Box
-favicon: null
-title: THE FIT BOX
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.24895517132245004
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Fit Box
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: THE FIT BOX
 purpose: []
-navigation:
-  - name: CONTACTO
-    id: a13e8487-bc73-483f-9d85-b07bb50edf35
-    type: content
