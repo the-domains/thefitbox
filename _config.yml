@@ -31,6 +31,9 @@ navigation:
   - name: MARCAS
     id: f1fb8e86-510d-432a-826d-77e0ae9948e2
     type: content
+  - name: ' PRODUCTOS'
+    id: 52bb2ebd-aa31-4c6c-9cf7-1492efccf698
+    type: content
 favicon: null
 title: THE FIT BOX
 description: BIENVENIDO!
