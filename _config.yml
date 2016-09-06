@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Marcas
+  - name: MARCAS
     id: fe509e49-2cd6-4303-bd1e-a59e6d669d11
     type: content
   - name: MARCAS
