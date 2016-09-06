@@ -34,6 +34,9 @@ navigation:
   - name: ' PRODUCTOS'
     id: 52bb2ebd-aa31-4c6c-9cf7-1492efccf698
     type: content
+  - name: CONCEPTO
+    id: f14dcc91-c649-42dd-ba06-dbeb3b9fdb59
+    type: content
 favicon: null
 title: THE FIT BOX
 description: BIENVENIDO!
