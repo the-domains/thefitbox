@@ -37,6 +37,9 @@ navigation:
   - name: CONCEPTO
     id: f14dcc91-c649-42dd-ba06-dbeb3b9fdb59
     type: content
+  - name: CONTACTO
+    id: a13e8487-bc73-483f-9d85-b07bb50edf35
+    type: content
 favicon: null
 title: THE FIT BOX
 description: BIENVENIDO!
