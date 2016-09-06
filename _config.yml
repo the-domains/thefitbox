@@ -32,9 +32,6 @@ navigation:
     id: 52bb2ebd-aa31-4c6c-9cf7-1492efccf698
     type: content
   - name: MARCAS
-    id: fe509e49-2cd6-4303-bd1e-a59e6d669d11
-    type: content
-  - name: MARCAS
     id: f1fb8e86-510d-432a-826d-77e0ae9948e2
     type: content
   - name: CONTACTO
